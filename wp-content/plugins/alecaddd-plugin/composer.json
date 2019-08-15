@@ -1,0 +1,17 @@
+{
+	"name": "haige/alecaddd-plugin",
+	"description": "haige is awsome",
+	"type": "project",
+	"license": "GPL",
+	"authors": [
+		{
+			"name": "derek Xue",
+			"email": "xuehaige@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {},
+	"autoload": {
+		"psr-4": { "Inc\\": "./inc" }
+	}
+}
